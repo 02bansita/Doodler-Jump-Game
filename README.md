@@ -41,3 +41,9 @@ Monitor the player's score based on the protagonist's advancements and interacti
 
 Introduce a game-over condition alongside a reset function to restart the game. Clear the game state, reposition the protagonist and platforms, and reset the score when the player opts to restart.
 
+
+![Screenshot 2025-01-26 111819](https://github.com/user-attachments/assets/ca1861bb-12cd-4982-bda0-84416a513716)
+
+
+
+
