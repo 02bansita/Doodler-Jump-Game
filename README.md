@@ -41,7 +41,7 @@ Monitor the player's score based on the protagonist's advancements and interacti
 
 Introduce a game-over condition alongside a reset function to restart the game. Clear the game state, reposition the protagonist and platforms, and reset the score when the player opts to restart.
 
-https://github.com/02bansita/Doodler-Jump-Game/blob/55f8c1b151bbb239e3a7ab4b957ac02deb4902fa/Screenshot%202025-01-26%20111819%20-%20Copy.png
+![image alt](https://github.com/02bansita/Doodler-Jump-Game/blob/55f8c1b151bbb239e3a7ab4b957ac02deb4902fa/Screenshot%202025-01-26%20111819%20-%20Copy.png)
 
 
 
